@@ -1,0 +1,9 @@
+{
+  "name": "3js_portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nospyrin73/3js_portfolio.git",
+  "author": "nospyrin73",
+  "license": "MIT",
+  "private": false
+}
